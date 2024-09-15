@@ -1,5 +1,4 @@
 # Simple-Linear-Regression
-Simple Linear Regression
 
 ## Data has 2 columns 
 ### Horse Power : represent to the horse power of the car 
